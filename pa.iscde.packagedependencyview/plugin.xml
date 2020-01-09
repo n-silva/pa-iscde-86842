@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         id="packagedepview"
+         name="Package Dependency View"
+         point="pt.iscte.pidesco.view">
+      <view
+            class="pa.iscde.packagedependencyview.demo.DemoView"
+            icon="diagram.png">
+      </view>
+   </extension>
+
+</plugin>
