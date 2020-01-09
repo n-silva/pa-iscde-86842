@@ -1,5 +1,7 @@
 package pa.iscde.packagedependencyview.ext;
 
-public interface ServiceProvider {
-	void getPackageClass(String dir);
+import org.eclipse.swt.widgets.Composite;
+
+public interface PackageViewExport {
+	void AddExport(Composite itemMenu);
 }

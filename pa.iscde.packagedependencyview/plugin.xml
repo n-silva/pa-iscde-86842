@@ -6,7 +6,7 @@
          name="Package Dependency View"
          point="pt.iscte.pidesco.view">
       <view
-            class="pa.iscde.packagedependencyview.demo.DemoView"
+            class="pa.iscde.packagedependencyview.view.PackageView"
             icon="diagram.png">
       </view>
    </extension>
