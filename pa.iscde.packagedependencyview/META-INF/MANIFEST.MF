@@ -17,9 +17,9 @@ Require-Bundle: org.eclipse.swt;bundle-version="3.108.0",
  org.eclipse.zest.core;bundle-version="1.5.300",
  org.eclipse.zest.layouts;bundle-version="1.1.300",
  org.eclipse.ui;bundle-version="3.110.0",
- org.eclipse.jdt.core,
+ org.eclipse.core.runtime.source;bundle-version="3.16.0",
  org.eclipse.core.resources;bundle-version="3.13.500",
- org.eclipse.e4.core.di;bundle-version="1.7.400"
+ org.eclipse.jdt.core;bundle-version="3.19.0"
 Export-Package: pa.iscde.packagedependencyview.controller;
   uses:="org.eclipse.zest.core.viewers,
    org.eclipse.zest.core.widgets,
@@ -29,4 +29,5 @@ Export-Package: pa.iscde.packagedependencyview.controller;
  pa.iscde.packagedependencyview.view
 Bundle-ClassPath: library/qdox-2.0.0.jar,
  .
+Bundle-Activator: pa.iscde.packagedependencyview.controller.Activator
 

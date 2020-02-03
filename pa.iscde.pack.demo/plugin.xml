@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         id="additem"
+         point="pa.iscde.packagedependencyview.menuitem">
+      <item
+            class="pa.iscde.pack.demo.DemoPackExt">
+      </item>
+   </extension>
+
+</plugin>

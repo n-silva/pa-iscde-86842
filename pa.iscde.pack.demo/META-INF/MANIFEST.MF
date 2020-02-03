@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Demo
+Bundle-SymbolicName: pa.iscde.pack.demo;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: pa.iscde.pack.demo.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ pa.iscde.packagedependencyview;bundle-version="1.0.0",
+ pt.iscte.pidesco;bundle-version="0.1.0",
+ pt.iscte.pidesco.javaeditor;bundle-version="1.1.0",
+ pt.iscte.pidesco.projectbrowser;bundle-version="0.1.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-12
+Automatic-Module-Name: pa.iscde.pack.demo
+Bundle-ActivationPolicy: lazy
+Import-Package: org.eclipse.zest.core.viewers

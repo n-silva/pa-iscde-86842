@@ -3,7 +3,7 @@
   <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;pt.iscte.pidesco.javaeditor&quot; name=&quot;PackageView.java&quot; tooltip=&quot;/home/nelido/iscteJava/pa-iscde-86842/pa.iscde.packagedependencyview/src/pa/iscde/packagedependencyview/view/PackageView.java&quot;>&#xA;&lt;persistable uri=&quot;file:/home/nelido/iscteJava/pa-iscde-86842/pa.iscde.packagedependencyview/src/pa/iscde/packagedependencyview/view/PackageView.java&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_VLEYYjIxEeqPQ8DAue3Nyg" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_VRS8MTIxEeqPQ8DAue3Nyg" x="423" y="112" width="1200" height="800">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_VLEYYjIxEeqPQ8DAue3Nyg" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_VRS8MTIxEeqPQ8DAue3Nyg" x="553" y="64" width="1200" height="800">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="isRestored" value="true"/>
@@ -28,7 +28,7 @@
                 <tags>View</tags>
                 <tags>categoryTag:Other</tags>
               </children>
-              <children xsi:type="advanced:Placeholder" xmi:id="_WPzy4DIxEeqPQ8DAue3Nyg" elementId="pt.iscte.pidesco.view:pa.iscde.packagedependencyview.packagedepview" ref="_WPoMsDIxEeqPQ8DAue3Nyg" closeable="true">
+              <children xsi:type="advanced:Placeholder" xmi:id="_WPzy4DIxEeqPQ8DAue3Nyg" elementId="pt.iscte.pidesco.view:pa.iscde.packagedependencyview.packagedepview" toBeRendered="false" ref="_WPoMsDIxEeqPQ8DAue3Nyg" closeable="true">
                 <tags>View</tags>
                 <tags>categoryTag:Other</tags>
               </children>
@@ -75,7 +75,7 @@
         <tags>EditorStack</tags>
         <tags>active</tags>
         <children xsi:type="basic:Part" xmi:id="_E3c3gDMDEeqMcbY6jRyogQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="PackageView.java" iconURI="platform:/plugin/pt.iscte.pidesco.javaeditor/images/javafile.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;pt.iscte.pidesco.javaeditor&quot; name=&quot;PackageView.java&quot; partName=&quot;PackageView.java&quot; title=&quot;PackageView.java&quot; tooltip=&quot;/home/nelido/iscteJava/pa-iscde-86842/pa.iscde.packagedependencyview/src/pa/iscde/packagedependencyview/view/PackageView.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/home/nelido/iscteJava/pa-iscde-86842/pa.iscde.packagedependencyview/src/pa/iscde/packagedependencyview/view/PackageView.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;232&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;pt.iscte.pidesco.javaeditor&quot; name=&quot;PackageView.java&quot; partName=&quot;PackageView.java&quot; title=&quot;PackageView.java&quot; tooltip=&quot;/home/nelido/iscteJava/pa-iscde-86842/pa.iscde.packagedependencyview/src/pa/iscde/packagedependencyview/view/PackageView.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/home/nelido/iscteJava/pa-iscde-86842/pa.iscde.packagedependencyview/src/pa/iscde/packagedependencyview/view/PackageView.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;227&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;232&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>pt.iscte.pidesco.javaeditor</tags>
@@ -686,7 +686,7 @@
   <addons xmi:id="_VLE_fTIxEeqPQ8DAue3Nyg" elementId="MinMax Addon" contributorURI="platform:/plugin/org.eclipse.ui.workbench" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon"/>
   <addons xmi:id="_VLE_fjIxEeqPQ8DAue3Nyg" elementId="org.eclipse.ui.workbench.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.workbench" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
   <addons xmi:id="_VLOJYDIxEeqPQ8DAue3Nyg" elementId="SplitterAddon" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.splitteraddon.SplitterAddon"/>
-  <addons xmi:id="_DN5fwDMDEeqMcbY6jRyogQ" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
+  <addons xmi:id="_405icUbIEeqruYNY01jRQA" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
   <categories xmi:id="_VLhEUDIxEeqPQ8DAue3Nyg" elementId="org.eclipse.ui.category.views" name="Views" description="Commands for opening views"/>
   <categories xmi:id="_VLhEUTIxEeqPQ8DAue3Nyg" elementId="org.eclipse.ui.category.project" name="Project"/>
   <categories xmi:id="_VLhEUjIxEeqPQ8DAue3Nyg" elementId="org.eclipse.ui.category.perspectives" name="Perspectives" description="Commands for opening perspectives"/>
